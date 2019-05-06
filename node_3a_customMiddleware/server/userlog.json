@@ -1,0 +1,27 @@
+[
+  {
+    "username": "ttn",
+    "password": "123",
+    "activeStatus": "false"
+  },
+  {
+    "username": "ravi",
+    "password": "123",
+    "activeStatus": "false"
+  },
+  {
+    "username": "hd",
+    "password": "123",
+    "activeStatus": "false"
+  },
+  {
+    "username": "deep",
+    "password": "123",
+    "activeStatus": "false"
+  },
+  {
+    "username": "varnit",
+    "password": "123",
+    "activeStatus": "false"
+  }
+]
